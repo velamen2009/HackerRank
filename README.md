@@ -31,7 +31,7 @@ Arrays                                |Done
 Linked Lists                          |Done
 Trees                                 |11/13
 Balanced Trees                        |0/3
-Stacks                                |4/8
+Stacks                                |5/8
 Queues                                |3/5
 Heap                                  |2/4
 Disjoint Set                          |0/4

@@ -12,18 +12,18 @@ Cracking the Coding Interview         |Done
 Algorithms---                         |
 --------------------------------------|--------
 Warmup                                |Done
-Algorithm - Implementation            |Done
-Algorithm - Construction Algorithm    |3/8
-Algorithm - Strings                   |22/40                   
-Algorithm - Sorting                   |15/18
-Algorithm - Search                    |3/20
-Algorithm - Graph Theory              |1/52
-Algorithm - Greedy                    |1/20
-Algorithm - Dynamic Programming       |0/87
-Algorithm - Bit Manipulation          |9/25
-Algorithm - Recursion                 |0/2
-Algorithm - Game Theory               |2/29
-Algorithm - NP Complete               |0/3
+Implementation                        |Done
+Construction Algorithm                |3/8
+Strings                               |22/40                   
+Sorting                               |15/18
+Search                                |3/20
+Graph Theory                          |1/52
+Greedy                                |1/20
+Dynamic Programming                   |0/87
+Bit Manipulation                      |9/25
+Recursion                             |0/2
+Game Theory                           |2/29
+NP Complete                           |0/3
 
 Data Structures---                    |---------
 --------------------------------------|---------

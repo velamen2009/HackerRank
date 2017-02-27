@@ -5,7 +5,12 @@ This is a repository of my solutions of Hacker Rank problems
 C++ mostly
 
 #Dashboard
+Languages---                          |--------
+--------------------------------------|--------
 C++                                   |Done
+
+Tutorials---                          |--------
+--------------------------------------|--------
 Cracking the Coding Interview         |Done
 30 Days of Code                       |26/30
 

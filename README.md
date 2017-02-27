@@ -9,7 +9,7 @@ C++                                   |Done
 Cracking the Coding Interview         |Done
 30 Days of Code                       |26/30
 
-Algorithms---                         |
+Algorithms---                         |--------
 --------------------------------------|--------
 Warmup                                |Done
 Implementation                        |Done

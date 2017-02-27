@@ -11,7 +11,7 @@ Cracking the Coding Interview         |Done
 
 Algorithms---                         |
 --------------------------------------|--------
-Algorithm - Warmup                    |Done
+Warmup                                |Done
 Algorithm - Implementation            |Done
 Algorithm - Construction Algorithm    |3/8
 Algorithm - Strings                   |22/40                   

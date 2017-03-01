@@ -21,7 +21,7 @@ Implementation                        |Done
 Construction Algorithm                |3/8
 Strings                               |22/40                   
 Sorting                               |15/18
-Search                                |4/20
+Search                                |5/20
 Graph Theory                          |1/52
 Greedy                                |1/20
 Dynamic Programming                   |0/87

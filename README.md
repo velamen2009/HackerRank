@@ -13,6 +13,7 @@ Tutorials---                          |--------
 --------------------------------------|--------
 Cracking the Coding Interview         |Done
 30 Days of Code                       |Done
+10 Days of Statistic Challenges       |1/10
 
 Algorithms---                         |--------
 --------------------------------------|--------

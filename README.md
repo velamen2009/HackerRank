@@ -29,7 +29,7 @@ Strings                               |22/40
 Sorting                               |15/18
 Search                                |5/20
 Graph Theory                          |1/52
-Greedy                                |1/20
+Greedy                                |2/20
 Dynamic Programming                   |0/87
 Bit Manipulation                      |9/25
 Recursion                             |0/2

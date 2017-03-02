@@ -9,6 +9,11 @@ Languages---                          |--------
 --------------------------------------|--------
 C++                                   |Done
 
+Python ---                            |--------
+--------------------------------------|--------
+Introduction                          |Done
+Basic Data Types                      |1/6
+
 Tutorials---                          |--------
 --------------------------------------|--------
 Cracking the Coding Interview         |Done

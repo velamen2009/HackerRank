@@ -12,7 +12,7 @@ C++                                   |Done
 Tutorials---                          |--------
 --------------------------------------|--------
 Cracking the Coding Interview         |Done
-30 Days of Code                       |30/30
+30 Days of Code                       |Done
 
 Algorithms---                         |--------
 --------------------------------------|--------
